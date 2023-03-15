@@ -6,6 +6,7 @@
 # Project Tasks
 # =====================================================================================================
 import numpy as np
+import pandas as pd
 from scipy.stats import shapiro, levene, ttest_ind
 
 pd.set_option('display.max_columns', 20)
